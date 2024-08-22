@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nguyễn Tiến Dũng </title>
+   
+<body style="background-color: aquamarine;">
+    
+    <header>
+        <p  style="color: red; font-size: xx-large; font-weight: bold;" >Nguyễn Tiến Dũng</p>
+    </header>
+   <main>
+   
+   </main>
+  
+    <footer>
+       <p style="color: black; font-size: large;">cho em 10 điểm ạ </p>
+    </footer>  
+    
+</body>
+</html>
